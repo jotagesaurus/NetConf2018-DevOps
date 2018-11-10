@@ -2,8 +2,8 @@
 #RECUERDE REEMPLAZAR POR SU NOMBRE SIN ESPACIOS
 
 cd /home/adminws/agents
-mkdir pongasunombreyapellidosinespacios
-cd pongasunombreyapellidosinespacios
+mkdir julianguarin
+cd julianguarin
 sudo apt-get install -y libunwind8 libcurl3
 
 
